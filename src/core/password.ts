@@ -1,4 +1,4 @@
-import { ask, type AskOptions } from './ask.js';
+import { ask, type AskOptions } from './ask.ts';
 
 /**
  * Options for password prompts (excludes silent as it's forced to true)

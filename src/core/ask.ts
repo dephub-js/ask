@@ -1,6 +1,6 @@
 import { logger } from '@dephub/logger';
 
-import { prompt } from './prompt.js';
+import { prompt } from './prompt.ts';
 
 /**
  * Options for configuring user input prompts

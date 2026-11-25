@@ -1,4 +1,4 @@
-import { ask, type AskOptions } from './ask.js';
+import { ask, type AskOptions } from './ask.ts';
 
 /**
  * Options for number prompts (excludes validate as it's handled internally)
